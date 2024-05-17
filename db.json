@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "id": "985629",
+      "name": "Luce Willa",
+      "username": "will",
+      "email": "lucewill@gmail.com",
+      "group": "Design"
+    },
+    {
+      "id": "564738",
+      "name": "Arthur Kingsley",
+      "username": "arthur",
+      "email": "arthur.kingsley@example.com",
+      "group": "Front-end"
+    },
+    {
+      "id": "123456",
+      "name": "Beatrice Ashworth",
+      "username": "beatrice",
+      "email": "beatrice.ashworth@example.com",
+      "group": "Design"
+    },
+    {
+      "id": "345678",
+      "name": "Rupert Faulkner",
+      "username": "rupert",
+      "email": "rupert.faulkner@example.com",
+      "group": "Cyber Security"
+    },
+    {
+      "id": "890123",
+      "name": "Florence Wainwright",
+      "username": "florence",
+      "email": "florence.wainwright@example.com",
+      "group": "Front-end"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "41245",
+      "name": "Andrew Lee",
+      "username": "andrew",
+      "email": "andrewlee@gmail.com",
+      "level": "senior"
+    },
+    {
+      "id": "123456",
+      "name": "Beatrice Ashworth",
+      "username": "beatrice",
+      "email": "beatrice.ashworth@example.com",
+      "level": "middle"
+    },
+    {
+      "id": "345678",
+      "name": "Rupert Faulkner",
+      "username": "rupert",
+      "email": "rupert.faulkner@example.com",
+      "level": "junior"
+    },
+    {
+      "id": "1afd",
+      "name": "asd",
+      "username": "asd",
+      "email": "tmwilson@gmail.vom",
+      "level": "Junior"
+    }
+  ]
+}
